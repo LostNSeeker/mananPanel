@@ -28,7 +28,7 @@ export default function HelpPage() {
             <div className="bg-white p-4 rounded-lg border">
               <h3 className="font-medium">How do I update my profile?</h3>
               <p className="text-gray-600 mt-2">
-                Go to Settings > Profile to update your personal information and contact details.
+                Go to Settings and Profile to update your personal information and contact details.
               </p>
             </div>
           </div>
